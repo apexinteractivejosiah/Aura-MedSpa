@@ -1,0 +1,6 @@
+{
+  "name": "Aura MedSpa - AI Skin & Treatment Finder",
+  "description": "Luxury, minimalist AI skin assessment and personalized treatment finder widget for Aura MedSpa with custom protocol recommendations, pricing, and 15% first-visit voucher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
